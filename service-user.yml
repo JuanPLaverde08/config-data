@@ -7,7 +7,7 @@ spring:
   boot:
     admin:
       client:
-        url: http://localhost:9011
+        url: http://localhost:7021
 
 eureka:
   client:
